@@ -1,0 +1,6 @@
+Login
+Register
+Scroll Up
+Scroll Down
+Scroll to Top
+Scroll to Bottom

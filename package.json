@@ -1,0 +1,12 @@
+{
+  "name": "hci-project",
+  "version": "1.0.0",
+  "description": "A simple voice based navigation system for your website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"ng serve"
+  },
+  "author": "",
+  "license": "ISC"
+}
